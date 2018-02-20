@@ -1,0 +1,5 @@
+git init: initializes empty repositories (DONE)
+git status: check the status of local repository (up-to-date or not, new files created locally...)
+git pull: merge remote repository in the local one
+git push: commit the changes on the remote repository
+git checkout: change git branch in local

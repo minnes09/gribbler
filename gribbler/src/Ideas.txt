@@ -1,0 +1,4 @@
+Full random maps
+Where the user can put objects: streets, trees, buildings... (simple shapes)
+Random maps with constraints
+Altitude percentage, smoothness, slope….
