@@ -1,6 +1,6 @@
-# gribbler
+# Gribbler
 Random map generator with WebGL
-University project to learn Docker and CD/CI
+(Free University of Bozen) "Advanced Internet Technologies" project to learn Docker and CD/CI
 
 Features:
 - simple login/logout
